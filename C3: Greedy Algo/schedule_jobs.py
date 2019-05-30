@@ -22,9 +22,9 @@ def find_order(jobs, key = 'difference' or 'ratio'):
     # find the key of the priority
     if key == 'difference':
         
-        priority = [item[0] - item[1] for item in jobs]
+        priority = [(item[0] - item[1],item[0]) for item in jobs]
     else:
-        priority = [item[0]/item[1] for item in jobs]
+        priority = [(item[0]/item[1], item[0]) for item in jobs]
     
     order = sorted(range(len(priority)), key = priority.__getitem__)
     
