@@ -44,3 +44,11 @@ def main():
     
 if __name__ == '__main__':
     main()
+
+ ### Test case:
+values = [0,3,2,4,4]
+sizes = [0,4,3,2,3]
+capacity = 6
+numbers = 4
+B = knapsack_dynamic(values, sizes, capacity, numbers)
+B[-1][-1] # The answer should be 8.
