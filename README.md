@@ -45,4 +45,5 @@ This repository contains Coursera Stanford Algorithm Specialization implementati
 **NP-Complete Probblems**
 
 2. [Traveling Salesman Problem with Dynamic Programming](./C4:%20Shortest%20Path%20Revisited,%20NP-Complete/TSP.py)
+3. [Traveling Salesman Problem with heuristic greedy algorithm](./C4:%20Shortest%20Path%20Revisited,%20NP-Complete/tsp_heuristic.py)
 
