@@ -1,5 +1,5 @@
 # The following code implements the Floyd-Warshall algorithm to solve all-pairs shortest paths problem. The algorithm can either
-find the shortest path of all paris or detect a negative cycle.
+#find the shortest path of all paris or detect a negative cycle.
 
 from tqdm import tqdm
 class Edge:
