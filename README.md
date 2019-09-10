@@ -1,6 +1,6 @@
 # Algo_stanford
 
-This repository contains Coursera Stanford Algorithm Specialization implementations in Python.
+This repository contains [Coursera Stanford Algorithm Specialization](https://www.coursera.org/specializations/algorithms) implementations in Python.
 
 ### Course 1: Divide and Conquer, Sorting and Searching, and Randomized Algorithms
 **Divide and Conquer Algorithms**
